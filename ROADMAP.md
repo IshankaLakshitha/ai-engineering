@@ -4,14 +4,16 @@
 
 ### v0.1 — Foundation
 
-- Core Copilot instructions
+- Core Copilot instructions and delivery workflow
 - Planner and developer roles
-- Shared knowledge, examples, checklists, and feature-plan template
+- Engineering, C#, asynchronous, and clean-architecture knowledge
+- Project-conventions guide, examples, checklists, and feature-plan template
 
 ### v0.2 — Reasoning and decisions
 
-- Role-specific reasoning workflows
-- Decision trees for common engineering changes
+- Common and role-specific reasoning workflows for planning, development, debugging, review, and architecture
+- Decision trees for endpoints, services, and refactoring
+- Clear separation of agent roles, knowledge, reasoning, and decision support
 
 ### v0.3 — Architecture Framework
 
