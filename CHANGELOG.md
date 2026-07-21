@@ -7,6 +7,7 @@ All notable changes to this framework are documented here. Versions use semantic
 ### Added
 
 - Architecture framework with system-design, architecture-decision-record, and quality-attribute templates.
+- Architecture Knowledge Library covering system design, boundaries, contracts, data, resilience, security, operations, performance, evolution, decisions, and reviews.
 - Boundary rules, architecture principles, and an architecture-review checklist.
 - Complete architect agent with engagement criteria, authority, inputs, design standards, expected outputs, handoffs, and escalation rules.
 - Architecture-change decision tree.

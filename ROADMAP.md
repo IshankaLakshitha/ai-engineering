@@ -18,6 +18,7 @@
 ### v0.3 — Architecture Framework
 
 - Architecture principles and explicit dependency boundaries
+- Architecture Knowledge Library for applying the framework to design and delivery decisions
 - System-design and ADR templates
 - Quality-attribute trade-off guidance
 - Complete architect agent, review checklist, and architecture-change decision tree

@@ -30,7 +30,7 @@ Copy the `.github` directory into the target repository, then tailor `knowledge/
 │   ├── checklists/       # Completion and review gates
 │   ├── decision-trees/   # Repeatable engineering decisions
 │   ├── examples/         # Small implementation examples
-│   ├── knowledge/        # Project and engineering guidance
+│   ├── knowledge/        # Project and engineering guidance, including architecture reference material
 │   ├── reasoning/        # Role-specific problem-solving workflows
 │   └── templates/        # Reusable planning documents
 ├── CHANGELOG.md

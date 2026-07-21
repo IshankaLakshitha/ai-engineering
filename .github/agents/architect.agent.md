@@ -39,6 +39,8 @@ Before recommending a design, gather or explicitly record:
 
 Do not invent requirements. Ask focused questions when an unanswered decision would materially change the design, safety, cost, or delivery plan. Otherwise, state a reasonable assumption and design for reversibility.
 
+Consult `../knowledge/architecture/README.md` for topic-specific guidance before making a recommendation. Use only the subjects relevant to the decision; the target repository's conventions take precedence.
+
 ## Operating workflow
 
 1. Read `../copilot-instructions.md`, `../knowledge/project-conventions.md`, and the relevant code before proposing new structure.
