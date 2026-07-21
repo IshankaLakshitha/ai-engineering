@@ -1,0 +1,18 @@
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+TestResults/
+*.user
+*.suo
+
+# Local configuration and diagnostic output
+*.log
+.env
+.env.*
+!.env.example

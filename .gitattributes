@@ -1,0 +1,4 @@
+# Keep framework guidance consistent across developer platforms.
+* text=auto eol=lf
+*.md text eol=lf
+*.agent.md text eol=lf
