@@ -20,7 +20,7 @@
 - Architecture principles and explicit dependency boundaries
 - System-design and ADR templates
 - Quality-attribute trade-off guidance
-- Architect role, review checklist, and architecture-change decision tree
+- Complete architect agent, review checklist, and architecture-change decision tree
 - Commit-ready repository layout and release documentation
 
 ## Next

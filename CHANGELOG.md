@@ -8,7 +8,8 @@ All notable changes to this framework are documented here. Versions use semantic
 
 - Architecture framework with system-design, architecture-decision-record, and quality-attribute templates.
 - Boundary rules, architecture principles, and an architecture-review checklist.
-- Architect role definition and an architecture-change decision tree.
+- Complete architect agent with engagement criteria, authority, inputs, design standards, expected outputs, handoffs, and escalation rules.
+- Architecture-change decision tree.
 - Project-level documentation and Git hygiene for a commit-ready repository.
 
 ### Changed
