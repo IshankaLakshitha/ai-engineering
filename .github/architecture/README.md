@@ -10,6 +10,7 @@ Use this framework when a change affects more than one layer, introduces a new d
 - [System-design template](system-design-template.md) captures a proposed design.
 - [ADR template](adr-template.md) records durable, consequential decisions.
 - [Architecture-review checklist](architecture-review-checklist.md) verifies the result before approval.
+- [Architecture Knowledge Library](../knowledge/architecture/README.md) provides practical guidance for applying these artifacts.
 
 ## Minimum path
 

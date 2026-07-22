@@ -28,9 +28,9 @@ Copy the `.github` directory into the target repository, then tailor `knowledge/
 │   ├── agents/           # Role definitions
 │   ├── architecture/     # Designs, ADRs, boundaries, and quality attributes
 │   ├── checklists/       # Completion and review gates
-│   ├── decision-trees/   # Repeatable engineering decisions
+│   ├── decision-trees/   # Indexed decisions for design, delivery, quality, and release work
 │   ├── examples/         # Small implementation examples
-│   ├── knowledge/        # Project and engineering guidance
+│   ├── knowledge/        # Project and engineering guidance, including architecture reference material
 │   ├── reasoning/        # Role-specific problem-solving workflows
 │   └── templates/        # Reusable planning documents
 ├── CHANGELOG.md
