@@ -20,6 +20,10 @@ For changes that cross layers, modules, data boundaries, or external integration
 
 Consult the relevant tree in `.github/decision-trees/` before implementing a material API, data, integration, defect, security, performance, testing, refactoring, or release change. Complete any artifacts and validation named by its outcome.
 
+## Delivery Quality
+
+For a behavior change, use the Tester Agent and `.github/knowledge/testing/` to select proportionate evidence. Before merge, use the Reviewer Agent and pull-request checklist. Before release, complete the release-readiness and production-readiness checks, then preserve the resulting evidence with the change.
+
 ## Workflow
 
 Understand -> Search -> Plan -> Assess architecture -> Implement -> Self review -> Test -> Document

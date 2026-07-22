@@ -2,7 +2,25 @@
 
 All notable changes to this framework are documented here. Versions use semantic versioning.
 
-## [0.3.0] - Unreleased
+## [0.4.0] - Unreleased
+
+### Added
+
+- Tester and Reviewer agents with defined inputs, outputs, role-specific workflows, quality gates, mistakes to avoid, and framework references.
+- Testing Knowledge library covering strategy, test pyramid, unit, integration, contract, test-data, and test-double practices.
+- Review Knowledge library covering risk-ordered pull-request review and actionable review feedback.
+- Code-review decision tree, unit and integration test review checklists, pull-request review checklist, and release and production readiness checklists.
+- Test plan, pull-request review, release notes, and production readiness review templates.
+- Good-versus-bad testing and code-review examples.
+- Quality Evaluation scorecards for testing, review, release readiness, and overall delivery quality.
+- GitHub Actions framework-quality workflow and portable PowerShell validation for version metadata, required artifacts, Markdown headings, and local links.
+
+### Changed
+
+- Copilot instructions now require proportionate test evidence, review, and release readiness for delivery-risk changes.
+- README now documents the delivery-quality workflow and expanded framework structure.
+
+## [0.3.0]
 
 ### Added
 
