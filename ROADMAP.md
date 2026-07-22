@@ -2,38 +2,39 @@
 
 ## Completed
 
-### v0.1 — Foundation
+### v0.1 - Foundation
 
 - Core Copilot instructions and delivery workflow
-- Planner and developer roles
+- Planner and Developer agents
 - Engineering, C#, asynchronous, and clean-architecture knowledge
-- Project-conventions guide, examples, checklists, and feature-plan template
+- Project conventions, examples, checklists, and feature-plan template
 
-### v0.2 — Reasoning and decisions
+### v0.2 - Reasoning and decisions
 
-- Common and role-specific reasoning workflows for planning, development, debugging, review, and architecture
-- Decision trees for endpoints, services, and refactoring
-- Clear separation of agent roles, knowledge, reasoning, and decision support
+- Common and role-specific reasoning workflows
+- Decision trees for common engineering changes
+- Clear separation of agents, knowledge, reasoning, and decision support
 
-### v0.3 — Architecture Framework
+### v0.3 - Architecture Framework
 
-- Architecture principles and explicit dependency boundaries
-- Architecture Knowledge Library for applying the framework to design and delivery decisions
-- System-design and ADR templates
-- Quality-attribute trade-off guidance
-- Complete architect agent, review checklist, and Decision Tree catalog
-- Commit-ready repository layout and release documentation
+- Architecture principles, dependency boundaries, system-design, and ADR templates
+- Architecture Knowledge Library and complete Architect Agent
+- Architecture review checklist and Decision Tree catalog
+
+### v0.4 - Delivery and Quality
+
+- Tester and Reviewer agents with complete workflows and quality gates
+- Testing and review knowledge libraries
+- Code-review decision support, actionable checklists, templates, and examples
+- CI framework-quality validation and GitHub Actions workflow
+- Release and production-readiness artifacts
+- Reusable testing, review, release, and overall quality scorecards
 
 ## Next
 
-### v0.4 — Delivery and quality
+### v0.5 - Operations and Security
 
-- Testing strategy and test-design templates
-- Pull-request review guidance
-- CI quality gates and release checklist
-
-### v0.5 — Operations and security
-
-- Observability, incident-response, and reliability guidance
+- Dedicated security, observability, incident-response, and reliability guidance
 - Threat-modeling and secure-design templates
 - Performance and cost review workflows
+- Specialist Security and Performance agents when the knowledge base and operating model support them

@@ -24,6 +24,7 @@ Decision trees turn common engineering choices into small, repeatable paths. The
 | Quality | [Performance change](performance-change.md) | Addressing latency, throughput, resource, or cost concerns |
 | Quality | [Security review](security-review.md) | Changing trust boundaries, data exposure, privilege, or public access |
 | Refactoring | [Refactor](refactor.md) | Improving structure without intended behavior change |
+| Review | [Code review](code-review.md) | Reviewing a proposed implementation change before merge |
 | Testing | [Test strategy](test-strategy.md) | Choosing the verification needed for a change |
 | Release | [Release rollout](release-rollout.md) | Releasing a risky, stateful, or compatibility-sensitive change |
 
