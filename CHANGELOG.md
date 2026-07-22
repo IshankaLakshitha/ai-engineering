@@ -10,7 +10,7 @@ All notable changes to this framework are documented here. Versions use semantic
 - Architecture Knowledge Library covering system design, boundaries, contracts, data, resilience, security, operations, performance, evolution, decisions, and reviews.
 - Boundary rules, architecture principles, and an architecture-review checklist.
 - Complete architect agent with engagement criteria, authority, inputs, design standards, expected outputs, handoffs, and escalation rules.
-- Architecture-change decision tree.
+- Complete Decision Tree catalog for architecture, APIs, application behavior, defects, data, integrations, quality, testing, refactoring, and release decisions.
 - Project-level documentation and Git hygiene for a commit-ready repository.
 
 ### Changed

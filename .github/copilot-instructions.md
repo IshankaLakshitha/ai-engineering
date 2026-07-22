@@ -16,6 +16,10 @@
 
 For changes that cross layers, modules, data boundaries, or external integrations, consult `.github/architecture/`. Document consequential or hard-to-reverse choices with an ADR, and apply the architecture review checklist before approval.
 
+## Decision Support
+
+Consult the relevant tree in `.github/decision-trees/` before implementing a material API, data, integration, defect, security, performance, testing, refactoring, or release change. Complete any artifacts and validation named by its outcome.
+
 ## Workflow
 
 Understand -> Search -> Plan -> Assess architecture -> Implement -> Self review -> Test -> Document
